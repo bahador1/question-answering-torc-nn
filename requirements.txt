@@ -1,0 +1,8 @@
+cython
+spacy
+bleach
+html5lib
+msgpack-numpy
+tqdm
+ujson
+tensorboard
